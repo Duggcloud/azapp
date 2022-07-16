@@ -1,3 +1,3 @@
 <?php
-echo "Hello World!...welcome to azureappservices";
+echo "<h2>Hello World!...welcome to azureappservices"</h2>;
 ?>
